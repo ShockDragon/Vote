@@ -1,0 +1,32 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Syne+Mono&display=swap');
+body{
+    font-family: 'Syne Mono', monospace;
+}
+
+img{
+    height: 200px;
+    width: auto;
+}
+.Vote{
+    border: 2px  solid royalblue;
+    display: inline-block;
+    text-align: center;
+    padding: 1em;
+}
+.infobox, p{
+    display: inline-block;
+    vertical-align: middle;
+   
+}
+h1{
+    margin: 0;
+}
+p{
+    font-size: 30pt;
+    margin: 2em;
+}
+button{
+    font-size: 24px;
+    font-family: 'Syne Mono', monospace;
+}
